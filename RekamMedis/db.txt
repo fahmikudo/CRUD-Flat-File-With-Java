@@ -1,0 +1,15 @@
+
+RM-0001;Fahmi Hidayatullah;Majalengka;1;BUGENVILE
+
+
+RM-0002;Abidella;Majalengka;3;RAFLESIA
+
+RM-0003;Galih Respati;Bandung;2;MAWAR
+
+RM-0004;Tresna Gumelar;Jakarta;1;BUGENVILE
+
+RM-0005;Bayu Setiaji;Bandung;2;MAWAR
+
+RM-0006;Egy Mohammad Erdin;Subang;1;BUGENVILE
+
+RM-0007;Hariz Fakhri Nugraha;Majalengka;3;RAFLESIA
